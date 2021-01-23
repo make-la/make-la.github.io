@@ -231,6 +231,7 @@ html, body{
 }
 
 .bio h1{
+	padding-top: 30px;
 	color: #80a0ba;
 	font-weight: bold;
 	font-size: 22px;
@@ -252,7 +253,6 @@ html, body{
 	font-weight: 200;
 	padding-left: 60px;
 	padding-right: 60px;
-	padding-bottom: 30px;
 }
 
 .bio p2{
