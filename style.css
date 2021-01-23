@@ -255,6 +255,12 @@ html, body{
 	padding-bottom: 30px;
 }
 
+.bio p2{
+	font-size: 15px;
+	font-weight: 500;
+	color: black;
+}
+
 .directors h1{
 	font-weight: bold;
 	text-align: center;
